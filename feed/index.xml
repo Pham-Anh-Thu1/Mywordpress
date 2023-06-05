@@ -9,10 +9,10 @@
 
 <channel>
 	<title></title>
-	<atom:link href="http://localhost/basiceo/feed/?simply_static_page=3780" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/basiceo/feed/?simply_static_page=4676" rel="self" type="application/rss+xml" />
 	<link>https://pham-anh-thu1.github.io/Mywordpress</link>
 	<description></description>
-	<lastBuildDate>Mon, 05 Jun 2023 09:24:09 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Jun 2023 09:27:42 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
